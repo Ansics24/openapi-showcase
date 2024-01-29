@@ -1,0 +1,10 @@
+openapi: 3.0.3
+info:
+  title: Scrabble API
+  description: This document describes an API for playing scrabble. It can be
+    used and consumed by any client, so feel free to provide one in a new module
+    here.
+  version: 1.0.0
+servers:
+  - url: 'https'
+paths:
