@@ -1,0 +1,8 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>de.schulte</groupId>
+    <artifactId>openapi-showcase</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+
+</project>
