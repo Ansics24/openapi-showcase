@@ -1,4 +1,4 @@
-openapi: 3.0.3
+openapi: 3.1.0
 info:
   title: Scrabble API
   description: This document describes an API for playing scrabble. It can be
@@ -8,3 +8,12 @@ info:
 servers:
   - url: 'https'
 paths:
+  /games:
+    summary: List resource for scrabble games
+    description: Create new games and browse all games
+  /games/{gameId}:
+    summary: Interaction with a single game
+    description: Interaction with a single game
+
+
+
